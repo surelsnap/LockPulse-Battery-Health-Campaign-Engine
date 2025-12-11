@@ -1,4 +1,4 @@
-# CloudBackend: Lock Battery Campaign
+# LockPulse-Battery-Health-Campaign-Engine
 
 ## Overview
 - Sends FCM notifications to users mapped to locks whose battery check timestamp is older than 1 month.
